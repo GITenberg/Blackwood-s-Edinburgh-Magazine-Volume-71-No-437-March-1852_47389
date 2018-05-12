@@ -1,4 +1,8 @@
 _repo: Blackwood-s-Edinburgh-Magazine-Volume-71-No-437-March-1852_47389
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47389-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Various
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47389#Blackwood-s-Edinburgh-Magazine-Volume-71-No-437-March-1852
 gutenberg_issued: '2014-11-18'
 gutenberg_type: Text
 identifiers:
